@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SBP_Olimpijada", "SBP_Olimpijada\SBP_Olimpijada.csproj", "{50AC28CF-8258-44CE-8664-087E3A85C9BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebOlimpijada", "WebOlimpijada\WebOlimpijada.csproj", "{1E52E87B-C549-4FEF-849B-75717909F7DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50AC28CF-8258-44CE-8664-087E3A85C9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AC28CF-8258-44CE-8664-087E3A85C9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AC28CF-8258-44CE-8664-087E3A85C9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AC28CF-8258-44CE-8664-087E3A85C9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E52E87B-C549-4FEF-849B-75717909F7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E52E87B-C549-4FEF-849B-75717909F7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E52E87B-C549-4FEF-849B-75717909F7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E52E87B-C549-4FEF-849B-75717909F7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
