@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">4InRow</string>
+
+    <string name="loading">Loading&#8230;</string>
+    <string name="get_data">Get Data</string>
+
+    <string name="error_server">Something went wrong!</string>
+    <string name="error_offline">No internet connection!</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="user_id">UserId</string>
+
+    <string name="email">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="active">Is Active</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="gender">Gender</string>
+    <string name="m">M</string>
+    <string name="f">F</string>
+    <string name="error">Error!</string>
+    <string name="edit">Edit</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="play">Play Game</string>
+    <string name="profile">Profile</string>
+    <string name="statistics">Statistics</string>
+    <string name="image">Image</string>
+
+    <string name="other_player_playing">Other player is playing...</string>
+    <string name="lose">Other player has won!</string>
+    <string name="start_game">Start game</string>
+    <string name="turn">Turn:</string>
+    <string name="bilo_sta">bilo sta</string>
+    <string name="winner">Winner!</string>
+    <string name="something_wrong">Something went wrong!</string>
+</resources>
